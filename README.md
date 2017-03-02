@@ -21,3 +21,11 @@ Made in python 3.6 with :heart:
  * System Drivers
  * Process
  * Computer system
+
+
+##**TO USE:**
+ * put in cmd "python toolnec.py" 
+
+##**Requirements:**
+ * python 3.6
+ * cmd
