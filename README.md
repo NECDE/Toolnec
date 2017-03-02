@@ -24,8 +24,8 @@ Made in python 3.6 with :heart:
 
 
 ##**TO USE:**
- * put in cmd "python toolnec.py" 
+ * Put in cmd "python toolnec.py" 
 
 ##**Requirements:**
- * python 3.6
- * cmd
+ * Python 3.6
+ * Cmd 
