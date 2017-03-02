@@ -1,7 +1,7 @@
-# Toolnec
+# **Toolnec**
 Shortcuts to tools, commands and save to txt (Services,Process,Etc) for windows
 
-Shortcuts and commands:
+**Shortcuts and commands:**
   Dxdiag
   Msconfig
   Regedit
@@ -13,7 +13,7 @@ Shortcuts and commands:
   Activate firewall
   Disable firewall
 
-SAVE TO TXT:
+**SAVE TO TXT:**
   Services
   System Drivers
   Process
