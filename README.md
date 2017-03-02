@@ -1,7 +1,7 @@
-# **Toolnec**
-Shortcuts to tools, commands and save to txt (Services,Process,Etc) for windows
+# :full_moon_with_face:**Toolnec**:new_moon_with_face:
+Shortcuts to tools, commands and save to txt (Services,Process and System Drivers) for windows
 
-**Shortcuts and commands:**
+##**Shortcuts and commands:**
   Dxdiag
   Msconfig
   Regedit
@@ -13,8 +13,10 @@ Shortcuts to tools, commands and save to txt (Services,Process,Etc) for windows
   Activate firewall
   Disable firewall
 
-**SAVE TO TXT:**
-  Services
-  System Drivers
-  Process
-  Computer system
+##**SAVE TO TXT:**
+Services
+System Drivers
+Process
+Computer system
+
+Made in python 3.6
