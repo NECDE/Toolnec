@@ -29,6 +29,7 @@ Made in python 3.6 with :heart:
 ##**Requirements:**
 **For .py:**
  * Python 3.6
- * Cmd 
+ * Cmd
+ 
 **For .exe:**
  * Windows
