@@ -16,6 +16,7 @@ Made in python 3.6 with :heart:
  * Activate firewall
  * Disable firewall
 
+
 ##**SAVE TO TXT:**
  * Services
  * System Drivers
@@ -24,7 +25,11 @@ Made in python 3.6 with :heart:
 
 
 ##**TO USE:**
- * Put in cmd "python toolnec.py" 
+ * With .py file: Put in cmd "python toolnec.py" 
+ 
+ * With .exe file: Only double click
+
+
 
 ##**Requirements:**
 
