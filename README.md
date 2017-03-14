@@ -27,8 +27,8 @@ Made in python 3.6 with :heart:
  * Put in cmd "python toolnec.py" 
 
 ##**Requirements:**
-**For .py:
+**For .py:**
  * Python 3.6
  * Cmd 
-**For .exe:
+**For .exe:**
  * Windows
