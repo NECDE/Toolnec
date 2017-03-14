@@ -35,7 +35,7 @@ Made in python 3.6 with :heart:
 
 **For .py:**
  * Python 3.6
- * Cmd
+ * Terminal or cmd(windows)
  
 **For .exe:**
  * Windows
