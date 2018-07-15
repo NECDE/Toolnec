@@ -4,7 +4,7 @@ Shortcuts to tools, commands and save to txt (Services,Process and System Driver
 Made in python 3.6 with :heart:
 
 
-##**Shortcuts and commands:**
+## **Shortcuts and commands:**
  * Dxdiag
  * Msconfig
  * Regedit
@@ -16,21 +16,21 @@ Made in python 3.6 with :heart:
  * Activate firewall
  * Disable firewall
 
-##**SAVE TO TXT:**
+## **SAVE TO TXT:**
  * Services
  * System Drivers
  * Process
  * Computer system
 
 
-##**TO USE:**
+## **TO USE:**
  * With .py file: Put in cmd "python toolnec.py" 
  
  * With .exe file: Only double click
 
 
 
-##**Requirements:**
+## **Requirements:**
 
 **For .py:**
  * Python 3.6
